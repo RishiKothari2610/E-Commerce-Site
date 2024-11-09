@@ -1,4 +1,5 @@
 This is a simple e-commerce site built with React and Redux. It allows users to browse products, add them to the cart, and view the cart.
+In this I have created 2 pages. One page is for product list and another page is for cart which means which products have been added to the cart.
 
 In the project directory, you can run:
 
