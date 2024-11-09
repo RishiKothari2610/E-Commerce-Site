@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This is a simple e-commerce site built with React and Redux. It allows users to browse products, add them to the cart, and view the cart.
 
 In the project directory, you can run:
 
